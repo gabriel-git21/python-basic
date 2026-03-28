@@ -6,7 +6,7 @@ __author__ = "JAODASJAPA"
 
 # base = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-numeros = list(range(1, 201))
+numeros = list(range(1, 11))
 
 # iterable
 for numero in numeros:
