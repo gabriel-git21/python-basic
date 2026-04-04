@@ -1,10 +1,16 @@
- # Mensagem para email (spam) com espaços especificos editáveis com % 
+ #!/usr/bin/env python3
+ """ Mensagem para email (spam) com espaços especificos editáveis com % 
 
 	User: JAODASJAPA
 	created:03/04
 	version:1.0
 
-	
+"""
+
+ cliente: Maria, João, Júlia, Gabriel, Marli
+
+ for cliente in cliente:
+ 
 	 email_tmpl = """
 
      Olá, %(nome)s
