@@ -1,9 +1,9 @@
  #!/usr/bin/env python3
  """ Mensagem para email (spam) com espaços especificos editáveis com % 
 
-	User: JAODASJAPA
-	created:03/04
-	version:1.0
+    __User: JAODASJAPA__
+	__created:03/04__
+	__version:1.0__
 
 """
 
